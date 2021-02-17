@@ -1,0 +1,4 @@
+name,value,weight_mean,weight_std
+gold,100,4,0.1
+silver,90,2.8,0.4
+bronze,70,2.2,0.3
